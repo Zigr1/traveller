@@ -1,0 +1,23 @@
+{
+  "name": "traveller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zigr1/traveller.git"
+  },
+  "author": "Ziborov Grigory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zigr1/traveller/issues"
+  },
+  "homepage": "https://github.com/Zigr1/traveller#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
